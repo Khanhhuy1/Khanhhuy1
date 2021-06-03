@@ -4,27 +4,20 @@
 Wed được tạo bởi Nguyễn Khánh Huy
 ```
 ```sh
-```sh
 Tiểu sử
-```
 ```
 ```sh
 Sở thích : Bóng đá
 ```
-```
 ```sh
 Công Việc : Lập trình C++
-```
 ```
 ```sh
 Công việc khác : Marketing Facebook
 ```
-```
 ```sh
 Nhận Đào Tạo Học Viên Giá Rẻ
 ```
-```
-
 - 👋 Hi, I’m Khánh huy
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
