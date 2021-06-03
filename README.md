@@ -21,8 +21,8 @@ Nhận Đào Tạo Học Viên Giá Rẻ
 - 👋 Hi, I’m Khánh huy
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Fb Nguyễn Khánh Huy
+- 💞️ Đang Làm việc Tại Lập Trình Wed
+- 📫 Facebook Liên lạc Nguyễn Khánh Huy
 
 <!---
 See You Again ✨By Nguyễn Khánh Huy 2021✨
